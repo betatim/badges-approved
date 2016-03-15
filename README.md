@@ -26,6 +26,9 @@ BADGE|CODE
 ![](https://img.shields.io/badge/betatim's%20badge%20attempts-passing-green.svg)|`![](https://img.shields.io/badge/betatim's%20badge%20attempts-passing-green.svg)`
 ![](https://img.shields.io/badge/help-i%20am%20stuck%20in%20a%20badge%20factory-red.svg)|`![](https://img.shields.io/badge/help-i%20am%20stuck%20in%20a%20badge%20factory-red.svg)`
 ![](https://img.shields.io/badge/githugs-approved-green.svg)|`![](https://img.shields.io/badge/githugs-approved-green.svg)`
+![](https://img.shields.io/badge/%E2%8A%82%28%E2%97%89%E2%80%BF%E2%97%89%29%E3%81%A4-GITHUG!-orange.svg)|`![](https://img.shields.io/badge/%E2%8A%82%28%E2%97%89%E2%80%BF%E2%97%89%29%E3%81%A4-GITHUG!-orange.svg)`
+![](https://img.shields.io/badge/githug%3F-%28.%E3%81%A5%E2%97%A1%EF%B9%8F%E2%97%A1%29%E3%81%A5-blue.svg)|`![](https://img.shields.io/badge/githug%3F-%28.%E3%81%A5%E2%97%A1%EF%B9%8F%E2%97%A1%29%E3%81%A5-blue.svg)`
+![](https://img.shields.io/badge/%CA%95%20%E2%8A%83%EF%BD%A5%20%E2%97%A1%20%EF%BD%A5%20%CA%94%E2%8A%83-%E2%8A%82%28%E3%83%BB%E2%96%BD%E3%83%BB%E2%8A%82%29-blue.svg)|`![](https://img.shields.io/badge/%CA%95%20%E2%8A%83%EF%BD%A5%20%E2%97%A1%20%EF%BD%A5%20%CA%94%E2%8A%83-%E2%8A%82%28%E3%83%BB%E2%96%BD%E3%83%BB%E2%8A%82%29-blue.svg)`
 ![](https://img.shields.io/badge/DARUDE-SANDSTORM-lightgrey.svg)|`![](https://img.shields.io/badge/DARUDE-SANDSTORM-lightgrey.svg)`
 ![](https://img.shields.io/badge/breakfast-🍰-brightgreen.svg)|`![](https://img.shields.io/badge/breakfast-🍰-brightgreen.svg)`
 ![](https://img.shields.io/badge/%F0%9F%8D%B0-a_lie-red.svg)|`![](https://img.shields.io/badge/%F0%9F%8D%B0-a_lie-red.svg)`
